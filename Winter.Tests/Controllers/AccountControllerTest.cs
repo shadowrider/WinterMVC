@@ -24,6 +24,7 @@ namespace Winter.Tests.Controllers
         {
             // Arrange
             AccountController controller = GetAccountController();
+            Bladsad.asdsads();
 
             // Act
             ViewResult result = (ViewResult)controller.ChangePassword();
