@@ -1,0 +1,27 @@
+﻿<Project ToolsVersion="3.5" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TargetConnectionString>Data Source=.;Integrated Security=True;Pooling=False</TargetConnectionString>
+    <TargetDatabase>Winter</TargetDatabase>
+    <DeployToDatabase>True</DeployToDatabase>
+    <DeployToScript>True</DeployToScript>
+    <SourceModel>Winter.Data.dbschema</SourceModel>
+    <DeployScriptFileName>Winter.Database.sql</DeployScriptFileName>
+    <DeploymentConfigurationFile>Database.sqldeployment</DeploymentConfigurationFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <DeploymentExtensionConfiguration Include="Script.PostDeployment.sql">
+      <__PostdeploymentMetadata>
+      </__PostdeploymentMetadata>
+    </DeploymentExtensionConfiguration>
+    <DeploymentExtensionConfiguration Include="Script.PreDeployment.sql">
+      <__PredeploymentMetadata>
+      </__PredeploymentMetadata>
+    </DeploymentExtensionConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.SqlTypes.dbschema" />
+  </ItemGroup>
+  <PropertyGroup>
+    <SqlCommandVariablesFile>Database.sqlcmdvars</SqlCommandVariablesFile>
+  </PropertyGroup>
+</Project>

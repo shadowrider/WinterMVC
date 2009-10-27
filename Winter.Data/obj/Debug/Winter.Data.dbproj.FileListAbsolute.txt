@@ -1,0 +1,9 @@
+C:\Users\ShadowRider\Documents\Visual Studio 2008\Projects\UniProj\Winter.Data\sql\debug\Script.PreDeployment.sql
+C:\Users\ShadowRider\Documents\Visual Studio 2008\Projects\UniProj\Winter.Data\sql\debug\Script.PostDeployment.sql
+C:\Users\ShadowRider\Documents\Visual Studio 2008\Projects\UniProj\Winter.Data\sql\debug\Database.sqlsettings
+C:\Users\ShadowRider\Documents\Visual Studio 2008\Projects\UniProj\Winter.Data\sql\debug\Database.sqldeployment
+C:\Users\ShadowRider\Documents\Visual Studio 2008\Projects\UniProj\Winter.Data\sql\debug\Database.sqlcmdvars
+C:\Users\ShadowRider\Documents\Visual Studio 2008\Projects\UniProj\Winter.Data\sql\debug\Winter.Data.deploymanifest
+C:\Users\ShadowRider\Documents\Visual Studio 2008\Projects\UniProj\Winter.Data\sql\debug\Winter.Data.dbschema
+C:\Users\ShadowRider\Documents\Visual Studio 2008\Projects\UniProj\Winter.Data\sql\debug\Microsoft.SqlTypes.dbschema
+C:\Users\ShadowRider\Documents\Visual Studio 2008\Projects\UniProj\Winter.Data\obj\Debug\Winter.Data.dbschema

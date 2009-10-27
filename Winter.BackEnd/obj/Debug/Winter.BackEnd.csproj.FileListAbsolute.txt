@@ -1,0 +1,13 @@
+C:\Users\ShadowRider\Documents\Visual Studio 2008\Projects\UniProj\Winter.BackEnd\bin\Winter.BackEnd.dll
+C:\Users\ShadowRider\Documents\Visual Studio 2008\Projects\UniProj\Winter.BackEnd\bin\Winter.BackEnd.pdb
+C:\Users\ShadowRider\Documents\Visual Studio 2008\Projects\UniProj\Winter.BackEnd\bin\Castle.Core.dll
+C:\Users\ShadowRider\Documents\Visual Studio 2008\Projects\UniProj\Winter.BackEnd\bin\Castle.DynamicProxy2.dll
+C:\Users\ShadowRider\Documents\Visual Studio 2008\Projects\UniProj\Winter.BackEnd\bin\Castle.MicroKernel.dll
+C:\Users\ShadowRider\Documents\Visual Studio 2008\Projects\UniProj\Winter.BackEnd\bin\Castle.Windsor.dll
+C:\Users\ShadowRider\Documents\Visual Studio 2008\Projects\UniProj\Winter.BackEnd\bin\Castle.DynamicProxy2.xml
+C:\Users\ShadowRider\Documents\Visual Studio 2008\Projects\UniProj\Winter.BackEnd\bin\Castle.MicroKernel.xml
+C:\Users\ShadowRider\Documents\Visual Studio 2008\Projects\UniProj\Winter.BackEnd\bin\Castle.Windsor.xml
+C:\Users\ShadowRider\Documents\Visual Studio 2008\Projects\UniProj\Winter.BackEnd\bin\Castle.Core.xml
+C:\Users\ShadowRider\Documents\Visual Studio 2008\Projects\UniProj\Winter.BackEnd\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ShadowRider\Documents\Visual Studio 2008\Projects\UniProj\Winter.BackEnd\obj\Debug\Winter.BackEnd.dll
+C:\Users\ShadowRider\Documents\Visual Studio 2008\Projects\UniProj\Winter.BackEnd\obj\Debug\Winter.BackEnd.pdb

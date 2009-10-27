@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winter.BackEnd", "Winter.BackEnd\Winter.BackEnd.csproj", "{6AE69B02-7562-4D4E-B532-D28388DF8D55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winter.Tests", "Winter.Tests\Winter.Tests.csproj", "{BAD4715B-2169-4F77-95D7-96719D51CF04}"
+EndProject
+Project("{C8D11400-126E-41CD-887F-60BD40844F9E}") = "Winter.Data", "Winter.Data\Winter.Data.dbproj", "{B2AAE31F-8096-4A8B-8F15-EDB78C1E6A43}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{33EAEDB0-C42E-415E-8E7B-6E3A479A00BD}"
+	ProjectSection(SolutionItems) = preProject
+		Libs\Castle.Core.dll = Libs\Castle.Core.dll
+		Libs\Castle.DynamicProxy2.dll = Libs\Castle.DynamicProxy2.dll
+		Libs\Castle.MicroKernel.dll = Libs\Castle.MicroKernel.dll
+		Libs\Castle.Windsor.dll = Libs\Castle.Windsor.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AE69B02-7562-4D4E-B532-D28388DF8D55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AE69B02-7562-4D4E-B532-D28388DF8D55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AE69B02-7562-4D4E-B532-D28388DF8D55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AE69B02-7562-4D4E-B532-D28388DF8D55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAD4715B-2169-4F77-95D7-96719D51CF04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD4715B-2169-4F77-95D7-96719D51CF04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD4715B-2169-4F77-95D7-96719D51CF04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2AAE31F-8096-4A8B-8F15-EDB78C1E6A43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2AAE31F-8096-4A8B-8F15-EDB78C1E6A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2AAE31F-8096-4A8B-8F15-EDB78C1E6A43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2AAE31F-8096-4A8B-8F15-EDB78C1E6A43}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal

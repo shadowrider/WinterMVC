@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[Students]
+    ADD CONSTRAINT [FK_Students_Persons] FOREIGN KEY ([ID]) REFERENCES [dbo].[Persons] ([ID]) ON DELETE NO ACTION ON UPDATE NO ACTION;
+
